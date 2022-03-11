@@ -1,0 +1,8 @@
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://www.mercadolivre.com.br/apple-iphone-13-pro-128-gb-dourado/p/MLB18494249?matt_tool=35422514&matt_word=&matt_source=google&matt_campaign_id=14303413643&matt_ad_group_id=125984291437&matt_match_type=&matt_network=g&matt_device=c&matt_creative=539354956512&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=156066097&matt_product_id=MLB18494249-product&matt_product_partition_id=1404594563959&matt_target_id=aud-891043985940:pla-1404594563959&gclid=CjwKCAiA4KaRBhBdEiwAZi1zzmpCymZtfi22EHesnlh1zZfIW8Y_s8mWGBHHiUygwXvUt-j-ZzgteBoCZ9YQAvD_BwE -O1 "C:\Meus Sites\mercado" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Fri, 11 Mar 2022 14:47:31, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

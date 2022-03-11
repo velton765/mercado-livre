@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.mercadolivre.com.br	TRUE	/	FALSE	1999999999	_d2id	8212c535-872c-4f6b-9f85-e82a6f6dec50-n
+www.mercadolivre.com.br	TRUE	/	FALSE	1999999999	_csrf	YWAPyaUZHvA5saxLbl7EuEo-
+www.mercadolivre.com.br	TRUE	/	FALSE	1999999999	c_ui-navigation	5.18.9
+.mercadolivre.com.br	TRUE	/	FALSE	1999999999	navigation_items	MLB2060028228%7C11032022174743%7CMLB18494249%7CMLB18494246
+www.mercadolivre.com.br	TRUE	/	FALSE	1999999999	SameSite	None
+
